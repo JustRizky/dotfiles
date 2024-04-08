@@ -1,0 +1,8 @@
+2024/03/28-20:11:03.715 f81 Reusing MANIFEST /home/rizky/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/03/28-20:11:03.715 f81 Recovering log #39
+2024/03/28-20:11:03.715 f81 Reusing old log /home/rizky/.config/discord/Local Storage/leveldb/000039.log 
+2024/03/28-20:16:17.820 12d8 Level-0 table #42: started
+2024/03/28-20:16:17.837 12d8 Level-0 table #42: 710946 bytes OK
+2024/03/28-20:16:17.846 12d8 Delete type=0 #39
+2024/03/28-20:16:46.279 16f2 Level-0 table #44: started
+2024/03/28-20:16:46.309 16f2 Level-0 table #44: 2988380 bytes OK

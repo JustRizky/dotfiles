@@ -1,0 +1,68 @@
+2024-03-28 22:01:28.796 [info] Log level: Info
+2024-03-28 22:01:28.796 [info] Validating found git in: "git"
+2024-03-28 22:01:28.796 [info] Using git "2.43.0" from "git"
+2024-03-28 22:01:28.796 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-28 22:01:28.796 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.796 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-28 22:01:28.796 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.797 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-28 22:01:28.797 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.802 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-28 22:01:28.802 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.808 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-28 22:01:28.808 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.812 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-28 22:01:28.812 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.817 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-28 22:01:28.817 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.822 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-28 22:01:28.822 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.827 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-28 22:01:28.827 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.832 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-28 22:01:28.838 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-03-28 22:01:28.848 [info] Open repository: /home/rizky/.oh-my-zsh
+2024-03-28 22:01:28.858 [info] > git config --get commit.template [4ms]
+2024-03-28 22:01:28.864 [info] > git rev-parse --show-toplevel [6ms]
+2024-03-28 22:01:28.864 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.869 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-28 22:01:28.869 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.874 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2024-03-28 22:01:28.880 [info] > git rev-parse --show-toplevel [6ms]
+2024-03-28 22:01:28.880 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.885 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-28 22:01:28.885 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.890 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-28 22:01:28.890 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.897 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-28 22:01:28.897 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.903 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-28 22:01:28.903 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.911 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-28 22:01:28.911 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.918 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-28 22:01:28.918 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.925 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-28 22:01:28.925 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.933 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-28 22:01:28.933 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.942 [info] > git rev-parse --show-toplevel [4ms]
+2024-03-28 22:01:28.942 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:28.995 [info] > git rev-parse --show-toplevel [49ms]
+2024-03-28 22:01:29.117 [info] > git rev-parse --git-dir --git-common-dir [37ms]
+2024-03-28 22:01:29.122 [info] Open repository: /home/rizky/nvim
+2024-03-28 22:01:29.132 [info] > git config --get commit.template [2ms]
+2024-03-28 22:01:29.196 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [59ms]
+2024-03-28 22:01:29.332 [info] > git status -z -uall [131ms]
+2024-03-28 22:01:29.351 [info] > git config --get commit.template [1ms]
+2024-03-28 22:01:29.351 [info] > git rev-parse --show-toplevel [6ms]
+2024-03-28 22:01:29.351 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-28 22:01:29.358 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-03-28 22:01:29.365 [info] > git status -z -uall [3ms]
+2024-03-28 22:01:29.432 [info] > git status -z -uall [553ms]
+2024-03-28 22:01:29.445 [info] > git config --get commit.template [2ms]
+2024-03-28 22:01:29.505 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [56ms]
+2024-03-28 22:01:29.544 [info] > git status -z -uall [33ms]
+2024-03-28 22:01:29.650 [info] > git check-ignore -v -z --stdin [6ms]
+2024-03-28 22:01:29.651 [info] > git check-ignore -v -z --stdin [2ms]
+2024-03-28 22:01:46.093 [warning] Failed to get repository realpath for: "/home/rizky/.vscode-oss/extensions/.d001d5cb-b6ac-4c10-a65b-f5e831f597ab/". Error: ENOENT: no such file or directory, realpath '/home/rizky/.vscode-oss/extensions/.d001d5cb-b6ac-4c10-a65b-f5e831f597ab/'

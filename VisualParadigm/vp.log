@@ -1,0 +1,442 @@
+[2023/12/23 01:32:52] [message] [Sat Dec 23 01:32:52 WIB 2023]: Start Visual Paradigm [VP]: 17.1 (20231203)
+[2023/12/23 01:32:52] [message] Operating system: Linux 6.6.3-arch1-1 running on amd64
+[2023/12/23 01:32:52] [message] Java VM: 11.0.21 OpenJDK 64-Bit Server VM, vendor 11.0.21+9 Oracle Corporation
+[2023/12/23 01:32:52] [message] User: rizky, language: en
+[2023/12/23 01:32:52] [message] Installation ID: bae6b9b6b0cb3e4ffb88261226a3fbbd
+[2023/12/23 01:32:52] [message] Memory: current=256M, max=1024M
+[2023/12/23 01:32:59] [message] start startup getLicenseKey on 23-Dec-2023
+[2023/12/23 01:32:59] [message] getLicenseKey in local ...
+[2023/12/23 01:32:59] [message] finish startup getLicenseKey
+[2023/12/23 01:32:59] [message] getVerifiedLicenseKey: null; state=Installed
+[2023/12/23 01:33:06] [message] Workspace: /home/rizky/.config/VisualParadigm/ws
+[2023/12/23 01:33:09] [message] Exit Visual Paradigm
+[2023/12/23 01:33:09] [message] Saved project ".systemproject" to "/home/rizky/.config/VisualParadigm/ws/.vpprefdata/.systemproject.vpp".
+[2023/12/23 01:33:09] [message] System.exit: true
+[2023/12/23 01:33:10] [message] [Sat Dec 23 01:33:10 WIB 2023]: Start Visual Paradigm Community Edition [VP CE]: 17.1 (20231203)
+[2023/12/23 01:33:10] [message] Operating system: Linux 6.6.3-arch1-1 running on amd64
+[2023/12/23 01:33:10] [message] Java VM: 11.0.21 OpenJDK 64-Bit Server VM, vendor 11.0.21+9 Oracle Corporation
+[2023/12/23 01:33:10] [message] User: rizky, language: en
+[2023/12/23 01:33:10] [message] Installation ID: bae6b9b6b0cb3e4ffb88261226a3fbbd
+[2023/12/23 01:33:10] [message] Memory: current=128M, max=1064M
+[2023/12/23 01:33:10] [message] Dec 23, 2023 1:33:10 AM java.util.prefs.FileSystemPreferences$2 run
+WARNING: Could not create system preferences directory. System preferences are unusable.
+[2023/12/23 01:33:10] [message] start startup getLicenseKey on 23-Dec-2023
+[2023/12/23 01:33:10] [message] getLicenseKey in local ...
+[2023/12/23 01:33:10] [message] finish startup getLicenseKey
+[2023/12/23 01:33:10] [message] getVerifiedLicenseKey: null; state=Activating
+[2023/12/23 01:33:10] [message] Workspace: /home/rizky/.config/VisualParadigm/ws
+[2023/12/23 01:33:12] [message] Opening Project: /home/rizky/.config/VisualParadigm/ws/.vpprefdata/.systemproject.vpp
+[2023/12/23 01:33:27] [message] Exit Visual Paradigm
+[2023/12/23 01:33:27] [message] Saved project ".systemproject" to "/home/rizky/.config/VisualParadigm/ws/.vpprefdata/.systemproject.vpp".
+[2023/12/23 01:33:27] [message] System.exit: true
+[2023/12/27 12:41:24] [message] [Wed Dec 27 12:41:24 WIB 2023]: Start Visual Paradigm Community Edition [VP CE]: 17.1 (20231203)
+[2023/12/27 12:41:24] [message] Operating system: Linux 6.6.3-arch1-1 running on amd64
+[2023/12/27 12:41:24] [message] Java VM: 11.0.21 OpenJDK 64-Bit Server VM, vendor 11.0.21+9 Oracle Corporation
+[2023/12/27 12:41:24] [message] User: rizky, language: en
+[2023/12/27 12:41:24] [message] Installation ID: bae6b9b6b0cb3e4ffb88261226a3fbbd
+[2023/12/27 12:41:24] [message] Memory: current=256M, max=1024M
+[2023/12/27 12:41:24] [message] start startup getLicenseKey on 27-Dec-2023
+[2023/12/27 12:41:24] [message] getLicenseKey in local ...
+[2023/12/27 12:41:24] [message] finish startup getLicenseKey
+[2023/12/27 12:41:24] [message] getVerifiedLicenseKey: null; state=Activating
+[2023/12/27 12:41:24] [message] Workspace: /home/rizky/.config/VisualParadigm/ws
+[2023/12/27 12:41:26] [message] Opening Project: /home/rizky/.config/VisualParadigm/ws/.vpprefdata/.systemproject.vpp
+[2023/12/27 12:41:29] [warning] Coudln't connect to Google Analytics. Internet may not be available. java.net.UnknownHostException: ssl.google-analytics.com: Temporary failure in name resolution
+[2023/12/27 12:41:30] [warning] Coudln't connect to Google Analytics. Internet may not be available. java.net.UnknownHostException: ssl.google-analytics.com
+[2023/12/27 12:42:39] [warning] Coudln't connect to Google Analytics. Internet may not be available. java.net.UnknownHostException: ssl.google-analytics.com: Temporary failure in name resolution
+[2023/12/27 12:43:04] [warning] Coudln't connect to Google Analytics. Internet may not be available. java.net.UnknownHostException: ssl.google-analytics.com: Temporary failure in name resolution
+[2023/12/27 12:43:24] [warning] Coudln't connect to Google Analytics. Internet may not be available. java.net.UnknownHostException: ssl.google-analytics.com: Temporary failure in name resolution
+[2023/12/27 12:43:30] [warning] java.net.UnknownHostException: null
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:229)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/java.net.Socket.connect(Socket.java:558)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:182)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:509)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:277)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:376)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:397)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1253)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1187)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1015)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1592)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at v.bzm.bp.<init>(:52)
+	at v.bzm.bj.a(:219)
+	at v.bzm.bj.a(:162)
+	at v.bzm.bj.b(:155)
+	at v.bzm.bj.b(:148)
+	at v.avi.br.a(:320)
+	at v.avi.br.a(:246)
+	at v.cpk.h.a(:28)
+	at v.awe.kf.a(:571)
+	at v.cnq.au.a(:263)
+	at v.cpk.ag.run(:811)
+
+[2023/12/27 12:44:10] [message] [Wed Dec 27 12:44:10 WIB 2023]: Start Visual Paradigm Community Edition [VP CE]: 17.1 (20231203)
+[2023/12/27 12:44:10] [message] Operating system: Linux 6.6.3-arch1-1 running on amd64
+[2023/12/27 12:44:10] [message] Java VM: 11.0.21 OpenJDK 64-Bit Server VM, vendor 11.0.21+9 Oracle Corporation
+[2023/12/27 12:44:10] [message] User: rizky, language: en
+[2023/12/27 12:44:10] [message] Installation ID: bae6b9b6b0cb3e4ffb88261226a3fbbd
+[2023/12/27 12:44:10] [message] Memory: current=256M, max=1024M
+[2023/12/27 12:44:11] [message] start startup getLicenseKey on 27-Dec-2023
+[2023/12/27 12:44:11] [message] getLicenseKey in local ...
+[2023/12/27 12:44:11] [message] finish startup getLicenseKey
+[2023/12/27 12:44:11] [message] getVerifiedLicenseKey: null; state=Activating
+[2023/12/27 12:44:11] [message] Workspace: /home/rizky/.config/VisualParadigm/ws
+[2023/12/27 12:44:12] [message] Opening Project: /home/rizky/.config/VisualParadigm/ws/.vpprefdata/.systemproject.vpp
+[2023/12/27 12:44:14] [warning] Coudln't connect to Google Analytics. Internet may not be available. java.net.UnknownHostException: ssl.google-analytics.com: Temporary failure in name resolution
+[2023/12/27 12:44:15] [warning] Coudln't connect to Google Analytics. Internet may not be available. java.net.UnknownHostException: ssl.google-analytics.com
+[2023/12/27 12:44:18] [message] Opening Project: /home/rizky/.config/VisualParadigm/ws/tmp/untitled3.working
+[2023/12/27 12:44:36] [warning] Coudln't connect to Google Analytics. Internet may not be available. java.net.UnknownHostException: ssl.google-analytics.com: Temporary failure in name resolution
+[2023/12/27 12:49:15] [message] Cannot write to folder: .. (Access is denied)
+[2023/12/27 12:49:15] [warning] Cannot request servers from Internet
+[2023/12/27 12:49:15] [warning] java.net.UnknownHostException: www.visual-paradigm.com
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:229)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:305)
+	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:182)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:509)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:373)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:207)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1187)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:193)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:168)
+	at v.al.b.a(:536)
+	at v.al.b.b(:388)
+	at v.al.b.a(:31)
+	at v.al.f.run(:161)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+[2023/12/27 13:00:23] [warning] java.io.IOException: Cannot run program "gconftool-2": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1128)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1071)
+	at java.base/java.lang.Runtime.exec(Runtime.java:592)
+	at v.cbf.i.a(:259)
+	at v.cee.e.b(:140)
+	at v.cee.e.a(:114)
+	at v.cee.e.b(:109)
+	at v.crc.bh.f(:94)
+	at v.crc.bh.e(:74)
+	at v.crc.bh.a(:46)
+	at v.crc.bh.<init>(:18)
+	at v.bp.f.a(:972)
+	at v.dfa.aec.i(:2243)
+	at v.dfa.aec.a(:2222)
+	at v.ccr.mt.mouseClicked(:6294)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:277)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:277)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:277)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:277)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6638)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4556)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:340)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:271)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1107)
+	... 48 more
+
+[2023/12/27 13:00:23] [warning] java.io.IOException: Cannot run program "gconftool-2": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1128)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1071)
+	at java.base/java.lang.Runtime.exec(Runtime.java:592)
+	at v.cbf.i.a(:259)
+	at v.cee.e.b(:140)
+	at v.cee.e.a(:114)
+	at v.cee.e.b(:109)
+	at v.crc.bh.f(:94)
+	at v.crc.bh.e(:74)
+	at v.crc.bh.a(:46)
+	at v.crc.bh.<init>(:18)
+	at v.bp.f.a(:972)
+	at v.dfa.aec.i(:2243)
+	at v.dfa.aec.a(:2222)
+	at v.ccr.mt.mouseClicked(:6294)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:277)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:277)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:277)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:277)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6638)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4556)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:340)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:271)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1107)
+	... 48 more
+
+[2023/12/27 23:57:10] [message] [Wed Dec 27 23:57:10 WIB 2023]: Start Visual Paradigm Community Edition [VP CE]: 17.1 (20231203)
+[2023/12/27 23:57:10] [message] Operating system: Linux 6.6.3-arch1-1 running on amd64
+[2023/12/27 23:57:10] [message] Java VM: 11.0.21 OpenJDK 64-Bit Server VM, vendor 11.0.21+9 Oracle Corporation
+[2023/12/27 23:57:10] [message] User: rizky, language: en
+[2023/12/27 23:57:10] [message] Installation ID: bae6b9b6b0cb3e4ffb88261226a3fbbd
+[2023/12/27 23:57:10] [message] Memory: current=256M, max=1024M
+[2023/12/27 23:57:11] [message] start startup getLicenseKey on 27-Dec-2023
+[2023/12/27 23:57:11] [message] getLicenseKey in local ...
+[2023/12/27 23:57:11] [message] finish startup getLicenseKey
+[2023/12/27 23:57:11] [message] getVerifiedLicenseKey: null; state=Activating
+[2023/12/27 23:57:11] [message] Workspace: /home/rizky/.config/VisualParadigm/ws
+[2023/12/27 23:57:12] [message] Opening Project: /home/rizky/.config/VisualParadigm/ws/.vpprefdata/.systemproject.vpp
+[2023/12/27 23:57:19] [message] Opening Project: /home/rizky/.config/VisualParadigm/ws/tmp/untitled3.working
+[2023/12/27 23:57:26] [message] Exit Visual Paradigm
+[2023/12/27 23:57:29] [message] Exit Visual Paradigm
+[2023/12/27 23:57:31] [message] Saved project ".systemproject" to "/home/rizky/.config/VisualParadigm/ws/.vpprefdata/.systemproject.vpp".
+[2023/12/27 23:57:31] [message] System.exit: true
+[2023/12/27 23:57:37] [message] [Wed Dec 27 23:57:37 WIB 2023]: Start Visual Paradigm Community Edition [VP CE]: 17.1 (20231203)
+[2023/12/27 23:57:37] [message] Operating system: Linux 6.6.3-arch1-1 running on amd64
+[2023/12/27 23:57:37] [message] Java VM: 11.0.21 OpenJDK 64-Bit Server VM, vendor 11.0.21+9 Oracle Corporation
+[2023/12/27 23:57:37] [message] User: rizky, language: en
+[2023/12/27 23:57:37] [message] Installation ID: bae6b9b6b0cb3e4ffb88261226a3fbbd
+[2023/12/27 23:57:37] [message] Memory: current=256M, max=1024M
+[2023/12/27 23:57:37] [message] start startup getLicenseKey on 27-Dec-2023
+[2023/12/27 23:57:37] [message] getLicenseKey in local ...
+[2023/12/27 23:57:37] [message] finish startup getLicenseKey
+[2023/12/27 23:57:37] [message] getVerifiedLicenseKey: null; state=Activating
+[2023/12/27 23:57:37] [message] Workspace: /home/rizky/.config/VisualParadigm/ws
+[2023/12/27 23:57:38] [message] Opening Project: /home/rizky/.config/VisualParadigm/ws/.vpprefdata/.systemproject.vpp
+[2023/12/27 23:59:04] [error] missing support shape type: DTBDecisionTableOverview
+[2023/12/27 23:59:04] [error] missing support shape type: SubLevelInFlow
+[2023/12/27 23:59:04] [error] missing support shape type: SubLevelOutFlow
+[2023/12/27 23:59:04] [error] missing support shape type: WireflowDecisionNode
+[2023/12/27 23:59:04] [error] missing support shape type: IFRepresented
+[2023/12/27 23:59:04] [error] missing support shape type: SoaMLServiceCategorizationDiagramOverview
+[2023/12/27 23:59:04] [error] missing support shape type: SoaMLMilestone
+[2023/12/27 23:59:04] [error] missing support shape type: SoaMLServiceInterfaceDiagramOverview
+[2023/12/27 23:59:04] [error] missing support shape type: InformationItem
+[2023/12/27 23:59:04] [error] missing support shape type: WireflowNode
+[2023/12/27 23:59:04] [error] missing support shape type: DependencyJunction
+[2023/12/27 23:59:04] [error] missing support shape type: SysMLConform2
+[2023/12/27 23:59:04] [error] missing support shape type: SoaMLServiceContractDiagramOverview
+[2023/12/27 23:59:04] [error] missing support shape type: SoaMLExternalRole
+[2023/12/27 23:59:04] [error] missing support shape type: WireflowConnector
+[2023/12/27 23:59:04] [error] missing support shape type: InformationFlow
+[2023/12/27 23:59:04] [error] missing support shape type: SoaMLServicesArchitectureDiagramOverview
+[2023/12/27 23:59:04] [error] missing support shape type: SoaMLServiceParticipantDiagramOverview
+[2023/12/27 23:59:50] [message] Garbage collection diagram u9dsNTGGAqACDAka
+[2023/12/27 23:59:50] [message] Finished garbage collection 1 diagram(s)
+[2023/12/28 00:02:41] [message] Cannot write to folder: .. (Access is denied)
+[2023/12/28 00:29:17] [warning] java.io.IOException: Cannot run program "gconftool-2": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1128)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1071)
+	at java.base/java.lang.Runtime.exec(Runtime.java:592)
+	at v.cbf.i.a(:259)
+	at v.cee.e.b(:140)
+	at v.cee.e.a(:114)
+	at v.cee.e.b(:109)
+	at v.crc.bh.f(:94)
+	at v.crc.bh.e(:74)
+	at v.crc.bh.a(:46)
+	at v.crc.bh.<init>(:18)
+	at v.bp.f.a(:972)
+	at v.djq.c.a(:180)
+	at v.ccr.qu.d(:901)
+	at v.dfa.apq.d(:205)
+	at v.ccr.qu.i(:834)
+	at v.ccr.ra.b(:153)
+	at v.bya.j.mouseReleased(:29)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6635)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:340)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:271)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1107)
+	... 48 more
+
+[2023/12/28 00:29:17] [warning] java.io.IOException: Cannot run program "gconftool-2": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1128)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1071)
+	at java.base/java.lang.Runtime.exec(Runtime.java:592)
+	at v.cbf.i.a(:259)
+	at v.cee.e.b(:140)
+	at v.cee.e.a(:114)
+	at v.cee.e.b(:109)
+	at v.crc.bh.f(:94)
+	at v.crc.bh.e(:74)
+	at v.crc.bh.a(:46)
+	at v.crc.bh.<init>(:18)
+	at v.bp.f.a(:972)
+	at v.djq.c.a(:180)
+	at v.ccr.qu.d(:901)
+	at v.dfa.apq.d(:205)
+	at v.ccr.qu.i(:834)
+	at v.ccr.ra.b(:153)
+	at v.bya.j.mouseReleased(:29)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6635)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:340)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:271)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1107)
+	... 48 more
+
+[2023/12/28 00:35:43] [message] Saved project "Thrift Shop" to "/home/rizky/Documents/VPProjects/Thrift Shop.vpp".
+[2023/12/28 00:36:30] [message] Garbage collection diagram EoXsNTGGAqACDAkn
+[2023/12/28 00:36:30] [message] Finished garbage collection 1 diagram(s)
+[2023/12/28 00:43:02] [message] Exception in thread "Thread-271"
+[2023/12/28 00:43:02] [message] java.lang.NullPointerException
+[2023/12/28 00:43:02] [message] at v.dgv.ui.N(:102)
+[2023/12/28 00:43:02] [message] at v.dgv.id.a(:122)
+[2023/12/28 00:43:02] [message] at v.dfa.aec.b(:6252)
+[2023/12/28 00:43:02] [message] at v.die.lr.a(:25)
+[2023/12/28 00:43:02] [message] at v.die.is.m(:1086)
+[2023/12/28 00:43:02] [message] at v.die.is.bt(:1094)
+[2023/12/28 00:43:02] [message] at v.die.iw.run(:900)
+[2023/12/28 00:43:02] [message] at java.base/java.lang.Thread.run(Thread.java:829)
+[2023/12/28 00:47:25] [message] Exit Visual Paradigm
+[2023/12/28 00:47:26] [message] Saved project "Thrift Shop" to "/home/rizky/Documents/VPProjects/Thrift Shop.vpp".
+[2023/12/28 00:47:27] [message] Saved project ".systemproject" to "/home/rizky/.config/VisualParadigm/ws/.vpprefdata/.systemproject.vpp".
+[2023/12/28 00:47:27] [message] System.exit: true
+[2024/03/28 20:35:20] [message] [Thu Mar 28 20:35:20 WIB 2024]: Start Visual Paradigm Community Edition [VP CE]: 17.1 (20231203)
+[2024/03/28 20:35:20] [message] Operating system: Linux 6.6.3-arch1-1 running on amd64
+[2024/03/28 20:35:20] [message] Java VM: 11.0.21 OpenJDK 64-Bit Server VM, vendor 11.0.21+9 Oracle Corporation
+[2024/03/28 20:35:20] [message] User: rizky, language: en
+[2024/03/28 20:35:20] [message] Installation ID: bae6b9b6b0cb3e4ffb88261226a3fbbd
+[2024/03/28 20:35:20] [message] Memory: current=256M, max=1024M
+[2024/03/28 20:35:20] [message] start startup getLicenseKey on 28-Mar-2024
+[2024/03/28 20:35:20] [message] getLicenseKey in local ...
+[2024/03/28 20:35:20] [message] finish startup getLicenseKey
+[2024/03/28 20:35:20] [message] getVerifiedLicenseKey: null; state=CommunityExpired
+[2024/03/28 20:35:30] [message] [Thu Mar 28 20:35:30 WIB 2024]: Start Visual Paradigm Community Edition [VP CE]: 17.1 (20231203)
+[2024/03/28 20:35:30] [message] Operating system: Linux 6.6.3-arch1-1 running on amd64
+[2024/03/28 20:35:30] [message] Java VM: 11.0.21 OpenJDK 64-Bit Server VM, vendor 11.0.21+9 Oracle Corporation
+[2024/03/28 20:35:30] [message] User: rizky, language: en
+[2024/03/28 20:35:30] [message] Installation ID: bae6b9b6b0cb3e4ffb88261226a3fbbd
+[2024/03/28 20:35:30] [message] Memory: current=256M, max=1024M
+[2024/03/28 20:35:31] [message] start startup getLicenseKey on 28-Mar-2024
+[2024/03/28 20:35:31] [message] getLicenseKey in local ...
+[2024/03/28 20:35:31] [message] finish startup getLicenseKey
+[2024/03/28 20:35:31] [message] getVerifiedLicenseKey: null; state=CommunityExpired
+[2024/04/08 11:49:22] [message] [Mon Apr 08 11:49:22 WIB 2024]: Start Visual Paradigm Community Edition [VP CE]: 17.1 (20231203)
+[2024/04/08 11:49:22] [message] Operating system: Linux 6.6.3-arch1-1 running on amd64
+[2024/04/08 11:49:22] [message] Java VM: 11.0.21 OpenJDK 64-Bit Server VM, vendor 11.0.21+9 Oracle Corporation
+[2024/04/08 11:49:22] [message] User: rizky, language: en
+[2024/04/08 11:49:22] [message] Installation ID: bae6b9b6b0cb3e4ffb88261226a3fbbd
+[2024/04/08 11:49:22] [message] Memory: current=256M, max=1024M
+[2024/04/08 11:49:22] [message] start startup getLicenseKey on 08-Apr-2024
+[2024/04/08 11:49:22] [message] getLicenseKey in local ...
+[2024/04/08 11:49:22] [message] finish startup getLicenseKey
+[2024/04/08 11:49:22] [message] getVerifiedLicenseKey: null; state=CommunityExpired

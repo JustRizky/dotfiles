@@ -1,0 +1,6 @@
+2024-04-02 01:35:09.306 [info] update#setState disabled
+2024-04-02 01:35:09.307 [info] update#ctor - updates are disabled as there is no update URL
+2024-04-02 01:35:21.967 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2024-04-02 01:35:59.051 [info] Extension host with pid 3796 exited with code: 0, signal: unknown.
+2024-04-02 01:35:59.062 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-04-02 01:35:59.062 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 4449]: crashed with code 15 and reason 'killed'

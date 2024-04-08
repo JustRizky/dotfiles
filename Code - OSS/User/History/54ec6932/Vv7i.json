@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.iconTheme": "vscode-icons",
+    "window.menuBarVisibility": "toggle"
+}

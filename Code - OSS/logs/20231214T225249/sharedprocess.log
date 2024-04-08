@@ -1,0 +1,15 @@
+2023-12-14 22:52:56.444 [info] Getting Manifest... drcika.apc-extension
+2023-12-14 22:52:57.075 [info] Installing extension: drcika.apc-extension
+2023-12-14 22:52:59.147 [info] Extension signature verification is not done: drcika.apc-extension
+2023-12-14 22:52:59.239 [info] Extracted extension to file:///home/rizky/.vscode-oss/extensions/drcika.apc-extension-0.3.6-universal: drcika.apc-extension
+2023-12-14 22:52:59.257 [info] Renamed to /home/rizky/.vscode-oss/extensions/drcika.apc-extension-0.3.6-universal
+2023-12-14 22:52:59.258 [info] Extracting extension completed. drcika.apc-extension
+2023-12-14 22:52:59.277 [info] Extension installed successfully: drcika.apc-extension
+2023-12-14 22:52:59.281 [info] Marked extension as uninstalled drcika.apc-extension-0.3.2-universal
+2023-12-14 22:52:59.380 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rizky/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rizky/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

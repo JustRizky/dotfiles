@@ -1,0 +1,16 @@
+2024-03-28 22:02:12.715 [info] Deleted uninstalled extension from disk jdinhlife.gruvbox /home/rizky/.vscode-oss/extensions/jdinhlife.gruvbox-1.17.0-universal
+2024-03-28 22:02:19.403 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-03-28 22:02:19.414 [info] Installing extension: vscode-icons-team.vscode-icons
+2024-03-28 22:02:32.412 [info] Extension signature verification is not done: vscode-icons-team.vscode-icons
+2024-03-28 22:02:33.045 [info] Extracted extension to file:///home/rizky/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.7.0-universal: vscode-icons-team.vscode-icons
+2024-03-28 22:02:33.053 [info] Renamed to /home/rizky/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.7.0-universal
+2024-03-28 22:02:33.055 [info] Extracting extension completed. vscode-icons-team.vscode-icons
+2024-03-28 22:02:33.069 [info] Extension installed successfully: vscode-icons-team.vscode-icons
+2024-03-28 22:02:33.072 [info] Marked extension as uninstalled vscode-icons-team.vscode-icons-12.6.0-universal
+2024-03-28 22:02:33.140 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rizky/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rizky/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

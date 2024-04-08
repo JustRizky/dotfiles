@@ -1,0 +1,17 @@
+2024-03-28 22:01:33.495 [info] Getting Manifest... jdinhlife.gruvbox
+2024-03-28 22:01:33.499 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-03-28 22:01:36.174 [info] Installing extension: vscode-icons-team.vscode-icons
+2024-03-28 22:01:36.175 [info] Installing extension: jdinhlife.gruvbox
+2024-03-28 22:01:45.109 [info] Extension signature verification is not done: jdinhlife.gruvbox
+2024-03-28 22:01:45.170 [info] Extracted extension to file:///home/rizky/.vscode-oss/extensions/jdinhlife.gruvbox-1.18.0-universal: jdinhlife.gruvbox
+2024-03-28 22:01:45.178 [info] Renamed to /home/rizky/.vscode-oss/extensions/jdinhlife.gruvbox-1.18.0-universal
+2024-03-28 22:01:45.179 [info] Extracting extension completed. jdinhlife.gruvbox
+2024-03-28 22:01:45.203 [info] Extension installed successfully: jdinhlife.gruvbox
+2024-03-28 22:01:45.218 [info] Marked extension as uninstalled jdinhlife.gruvbox-1.17.0-universal
+2024-03-28 22:01:45.287 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rizky/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rizky/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
